@@ -13,9 +13,9 @@
 ![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 🔗 &nbsp;**Connect with me**
-  <a href="https://www.linkedin.com/in/bayram-tatl%C4%B1-a156411b7/" target="_blank"><img src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" height="20" alt="LinkedIn Badge" /></a>
-  <a href="mailto:tatlbayram@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0099ff?style=flat&logo=gmail&logoColor=white" height="20" alt="Email Badge"/></a>
-  <a href="https://www.hackerrank.com/profile/tatlbayram" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="20" alt="Hackerrank Badge"/></a>
+  <a href="https://www.linkedin.com/in/bayram-tatl%C4%B1-a156411b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="mailto:tatlbayram@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://www.hackerrank.com/profile/tatlbayram" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/></a>
 
 [Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
 
