@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning .Net & Devops
 - 💬 Ask me about Angular/.Net / SQL
 ## 👩‍💻 &nbsp;Tech Skills
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=dotnet)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoftsqlserver)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
