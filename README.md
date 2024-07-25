@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Bayram
 
-- 🔭 I’m currently focus right now Software Development
+- 🔭 I’m currently focusing on Software Development Techs
 - 🌱 I’m currently learning .Net & Devops
 - 💬 Ask me about Angular/.Net / SQL
 
