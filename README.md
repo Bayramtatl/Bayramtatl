@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I am Bayram
 
-- 🔭 I’m currently working on Software Development Techs.
+- 🔭 I’m currently focus right now Software Development
 - 🌱 I’m currently learning .Net & Devops
 - 💬 Ask me about Angular/.Net / SQL
+
 ## 👩‍💻 &nbsp;Tech Skills
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
