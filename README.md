@@ -17,5 +17,9 @@
   <a href="mailto:tatlbayram@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://www.hackerrank.com/profile/tatlbayram" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank Badge"/></a>
 
-[Github stats 2](https://github-readme-stats.vercel.app/api?username=Bayramtatl&show_icons=true&theme=radical)
+## ✔ &nbsp;My Stats 
+
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=bayramtatl&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</p>
 
