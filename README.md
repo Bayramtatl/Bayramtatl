@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Bayramtatl/Bayramtatl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Software Development Techs.
 - 🌱 I’m currently learning .Net & Devops
 - 💬 Ask me about Angular/.Net / SQL
@@ -24,6 +19,5 @@ Here are some ideas to get you started:
   <a href="https://www.hackerrank.com/profile/tatlbayram" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="20" alt="Hackerrank Badge"/></a>
 </div>
 
--->
 [Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
 
